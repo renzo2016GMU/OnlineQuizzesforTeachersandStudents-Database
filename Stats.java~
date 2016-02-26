@@ -1,0 +1,11 @@
+import java.util.*;
+
+public class Stats{
+  
+  public Stats( ){
+  }
+  
+  public double getAverage(){
+    return 0.0;
+  }
+}
