@@ -1,0 +1,10 @@
+SA1,What decade was the waterfall model 'invented'?,1970s,QUIZ1
+MC2,Which of the following was not true about SE in the 1950s?,Customers were developers#Hardware was cheap#Developers were generally engineers/mathematicians,2,QUIZ1
+C3,Write code (assume main is already set up) to print out Hello World,System.out.println("Hello World!");,,Hello World!,QUIZ2
+SA4,Which prescriptive software process model is best suited for projects that are easily modularizable?,RAD,QUIZ2
+USERS
+U1,John Smith,Student,jsmith,passy
+U2,Jane Doe,Student,jdoe,passwerd
+U3,Dr Kinga,Teacher,drk,pass
+QUIZ1,SE history
+QUIZ2, Random questions
